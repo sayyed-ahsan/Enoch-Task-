@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "",
+        "image": "",
+        "auction": true,
+        "nftId": "",
+        "love": 33,
+        "nftName": "",
+        "price": 340,
+        "offerPercentage": 15
+    },
+    {
+        "_id": "",
+        "image": "",
+        "auction": true,
+        "nftId": "",
+        "love": 33,
+        "nftName": "",
+        "price": 340,
+        "offerPercentage": 15
+    },
+    {
+        "_id": "",
+        "image": "",
+        "auction": true,
+        "nftId": "",
+        "love": 33,
+        "nftName": "",
+        "price": 340,
+        "offerPercentage": 15
+    }
+]
