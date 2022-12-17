@@ -11,7 +11,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="flex flex-wrap">
+    <div className="flex flex-wrap max-w-[1000px] mx-auto">
       {
         cards.map(card => <Card card={card}></Card>)
       }
